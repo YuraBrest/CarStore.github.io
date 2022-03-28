@@ -1,0 +1,212 @@
+@media all and (max-width:1600px) {
+    .container {
+        max-width: 1920px;
+        /* height: 5885px; */
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .side-bar {
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        /* width: 1460px; */
+        height: 25px;
+        margin-top: 45px;
+        margin-left: 257px;
+        margin-bottom: 285px;
+    }
+
+    .text {
+        font-family: 'Geometria-Medium', sans-serif;
+        color: #1A1A1A;
+        font-size: 70px;
+        /* width: 680px; */
+        margin-top: -14px;
+        margin-left: 30px;
+        text-align-last: justify;
+    }
+
+    .block_1 p {
+        font-family: 'Geometria-Bold', sans-serif;
+        color: #2B2B2B;
+        font-size: 18px;
+        /* width: 700px; */
+        text-align-last: justify;
+        margin-bottom: 37px;
+    }
+
+    .button_block_1_1 {
+        font-family: 'Geometria-ExtraBold', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 14px;
+        /* width: 242px; */
+        height: 52px;
+        background-color: rgba(0, 153, 255, 1);
+        border: solid 2px rgba(0, 153, 255, 1);
+        border-radius: 34px;
+        cursor: pointer;
+    }
+
+    .button_block_1_2 {
+        font-family: 'Geometria-ExtraBold', sans-serif;
+        color: #2B2B2B;
+        background-color: #FEFEFE;
+        font-size: 14px;
+        /* width: 242px; */
+        height: 52px;
+        border: solid 2px rgba(0, 153, 255, 1);
+        border-radius: 34px;
+        margin-left: 29px;
+        cursor: pointer;
+        letter-spacing: 1px;
+    }
+
+    .text_block_2 {
+        font-family: 'Geometria-Medium', sans-serif;
+        font-size: 65px;
+        /* width: 743px; */
+        margin-top: -13px;
+        margin-bottom: 40px;
+        margin-left: 25px;
+    }
+
+    .info_block_2 p {
+        font-family: 'Geometria-Bold', sans-serif;
+        color: #2B2B2B;
+        font-size: 18px;
+        /* width: 592px; */
+        margin-bottom: 45px;
+    }
+
+    .button_block_2 {
+        font-family: 'Geometria-ExtraBold', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 14px;
+        /* width: 242px; */
+        height: 52px;
+        background-color: rgba(0, 153, 255, 1);
+        border: solid 2px rgba(0, 153, 255, 1);
+        border-radius: 34px;
+        cursor: pointer;
+    }
+
+    .text_block_3 {
+        font-family: 'Geometria-Medium', sans-serif;
+        font-size: 65px;
+        /* width: 615px; */
+        margin-top: -13px;
+        margin-left: 25px;
+        letter-spacing: 3px;
+    }
+
+    .info_block_3 p {
+        font-family: 'Geometria-Bold', sans-serif;
+        color: #2B2B2B;
+        font-size: 18px;
+        /* width: 683px; */
+        margin-bottom: 32px;
+        word-spacing: 5px;
+    }
+
+    .image_block_4_1 {
+        /* width: 227px; */
+        text-align: center;
+    }
+
+    .image_block_4_2,
+    .image_block_4_3 {
+        /* width: 227px; */
+        text-align: center;
+    }
+
+    .button_block_4 {
+        font-family: 'Geometria-ExtraBold', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 14px;
+        /* width: 242px; */
+        height: 52px;
+        background-color: rgba(0, 153, 255, 1);
+        border: solid 2px rgba(0, 153, 255, 1);
+        border-radius: 34px;
+        cursor: pointer;
+    }
+
+    .image_block_5 {
+        /* width: 890px; */
+        display: flex;
+    }
+
+    .info_block_5 p {
+        font-family: 'Geometria-Bold', sans-serif;
+        color: #2B2B2B;
+        font-size: 20px;
+        /* width: 550px; */
+        margin-bottom: 40px;
+        line-height: 1.5;
+        word-spacing: 8px;
+    }
+
+    .text_block_7 {
+        font-family: 'Geometria-Medium', sans-serif;
+        font-size: 65px;
+        /* width: 615px; */
+        margin-top: -13px;
+        margin-bottom: 57px;
+        margin-left: 18px;
+        word-spacing: 15px;
+    }
+
+    .button_block_7 {
+        font-family: 'Geometria-ExtraBold', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 14px;
+        /* width: 242px; */
+        height: 52px;
+        background-color: rgba(0, 153, 255, 1);
+        border: solid 2px rgba(0, 153, 255, 1);
+        border-radius: 34px;
+        cursor: pointer;
+        letter-spacing: 1px;
+    }
+
+    .logo_footer_container {
+        /* width: 230px; */
+    }
+
+    .layer_footer_container img {
+        /* width: 170px; */
+    }
+
+    .mail_footer input {
+        font-family: 'Geometria-Light', sans-serif;
+        background-color: rgba(0, 23, 38, 1);
+        color: #fff;
+        /* width: 302px; */
+        height: 42px;
+        border: solid 1px #FFFFFF;
+        border-radius: 34px;
+        margin-top: 17px;
+        padding: 0 20px;
+    }
+
+    .button_contact_footer {
+        font-family: 'Geometria-ExtraBold', sans-serif;
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 14px;
+        /* width: 162px; */
+        height: 42px;
+        background-color: rgba(0, 153, 255, 1);
+        border: solid 2px rgba(0, 153, 255, 1);
+        border-radius: 34px;
+        cursor: pointer;
+        margin-left: 17px;
+        margin-top: 34px;
+        letter-spacing: 1px;
+    }
+}
